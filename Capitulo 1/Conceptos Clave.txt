@@ -1,0 +1,8 @@
+* Algoritmo : Es una secuencia finita de instrucciones o pasos bien definidos y ordenados que resuelven un problema o realizan una tarea especifica.
+* Complejidad : Cantidad de recursos computacionales que se requieren para ejecutar dicho algoritmo, estos recursos pueden ser tiempo de ejecucion y espacio de memoria.
+* Eficiencia : Capacidad para utilizar recursos computacionales (tiempo y espacio) de manera optima al resolver un problema.
+* Estructuras de datos : Formas de organizar y almacenar datos de manera que puedan ser accedidos y manipulados de maner eficiente.
+* Notacion asintotica :  
+* Pseudocodigo : 
+* Rendimiento de un programa : Se refiere a la eficiencia con la que un programa utiliza los recursos del sistema, como el tiempo de CPU, la memoria y la entrada/salida, para ejecutar sus tareas.
+* Tipo de dato : Se clasifica en tipos de datos primitivos y tipos de datos no primitivos o compuestos.
